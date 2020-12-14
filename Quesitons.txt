@@ -1,0 +1,13 @@
+
+Analyze the Pokemon Dataset by performing folloing Tasks after importing data from the excel/csv file into Python. Apply appropriate methods/functions/attributes such as query, mean, median, sum, fillna, sort, startswith, contains, bar, barh, pie, scatter, plot, etc. on the data. Wherever it is required rename the columns because the column names in which there is space in between may display the error.
+
+1	Find pokemon with HP between 40 and 75.
+2	Find pokemon with type1 = Poison.
+3	Fill null values with mean of column HP, Attack and Defense.
+4	Sort pokemon in descending order by HP.
+5	Perform additoin on Sp. Atk column.
+6	Find the max and min speed from all pokemon.
+7	Find pokemon with the highest attack. 
+8	Find mean and median of HP.
+9	Find pokemon with lowest defense.
+10	Plot column chart for the columns Type 1="Water" Vs Attack column.
